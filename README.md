@@ -23,7 +23,7 @@ void costSlab3(const vector<int>& slab) {
     cout << endl;
 }
 int main() {
-    vector<vector<int>> matrix = {{2, 3, 4}, {5, 6, 7}, {8, 9, 1}};
+    vector<vector<int>> matrix = {{7, 6, 8}, {2, 4, 3}, {1, 8, 5}};
     string ID;
     cout << "Enter your ID: ";
     getline(cin, ID);
